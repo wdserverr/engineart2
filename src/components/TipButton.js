@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import Modal from "react-bootstrap/Modal";
 import './global.css'
 
 class TipButton extends Component {
@@ -25,10 +24,6 @@ class TipButton extends Component {
     } = this.props;
     const {
       amount,
-      modalOpen
-    } = this.state;
-    const {
-      accountId
     } = this.state;
 
     return (
