@@ -32,7 +32,7 @@ const Content = ({ styles }) => {
                " className="casino">discord.gg/engineart</a></p>
             <p className="summary">Casino: <a href="https://near.casino" className="casino">near.casino</a></p>
                         <Mint className="mintmodal"/>
-                        <img src="https://i.postimg.cc/zGbQSMjC/ezgif-com-gif-maker.gif" className="poto" width="50%" height="50%"></img>
+                        <img src="https://i.postimg.cc/zGbQSMjC/ezgif-com-gif-maker.gif" alt="Engineart" className="poto" width="50%" height="50%"></img>
           </div>
           );
       })}
